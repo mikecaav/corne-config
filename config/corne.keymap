@@ -11,11 +11,6 @@
 / {
         keymap {
                 compatible = "zmk,keymap,";
-
-        physical_layout0: physical_layout_0 {
-                compatible = "zmk,physical-layout";
-                display-name = "Default Layout";
-        };
                 default_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BSPC |
