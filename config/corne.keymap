@@ -11,5 +11,16 @@
 / {
         keymap {
                 compatible = "zmk,physical-layout";
+
+                default_layer {
+
+                };
+                lower_layer {
+
+                };
+
+                raise_layer {
+
+                };
         };
 };
